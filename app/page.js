@@ -116,6 +116,7 @@ export default function Home() {
       <section className="hero-rise mb-24 sm:mb-32">
         <p className="font-mono text-sm text-muted mb-6">
           <span className="text-signal">$</span> whoami
+          <span className="inline-block w-2 h-4 bg-signal ml-1 align-middle animate-blink" />
         </p>
         <h1 className="text-4xl sm:text-6xl font-semibold leading-[1.05] mb-6 max-w-content">
           Anagha Roy
