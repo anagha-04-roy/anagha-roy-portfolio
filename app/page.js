@@ -114,9 +114,8 @@ export default function Home() {
     <main className="mx-auto max-w-wide px-6 py-16 sm:py-24">
       {/* Hero */}
       <section className="hero-rise mb-24 sm:mb-32">
-        <p className="font-mono text-sm text-muted mb-6">
-          <span className="text-signal">$</span> whoami
-          <span className="inline-block w-2 h-4 bg-signal ml-1 align-middle animate-blink" />
+        <p className="font-mono text-sm text-muted mb-6 tracking-widest">
+          WHO AM I
         </p>
         <h1 className="text-4xl sm:text-6xl font-semibold leading-[1.05] mb-6 max-w-content">
           Anagha Roy
