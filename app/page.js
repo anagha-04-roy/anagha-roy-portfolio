@@ -155,7 +155,7 @@ export default function Home() {
       <section className="mb-24 sm:mb-32 max-w-content">
         <SectionLabel>01 — About</SectionLabel>
         <p className="text-paper leading-relaxed">
-          I'm a Software Development diploma student in Calgary who builds
+          I'm a Software Development diploma graduate in Calgary who builds
           full-stack web applications — React and Next.js on the frontend,
           Java/Spring Boot and Node.js on the backend — and wires real AI
           features into them using tools like Google Gemini and OpenRouter. I'm
